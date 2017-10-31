@@ -1,0 +1,120 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 24, 2017, 4:30:17 PM
+    Author     : Luc Desforges
+*/
+*
+{
+    font-family: arial 
+}
+textarea
+{
+    display: inline;
+    position: absolute;
+    left: 300px;
+}
+input
+{
+    display: inline;
+    position: absolute;
+    left: 300px
+}
+.inline
+{
+    display: inline;
+}
+.n-absolute
+{
+    display: inline;
+    position: static;
+    left: 300px 
+}
+.absolute
+{
+    display: inline;
+    position: absolute;
+    left: 300px 
+}
+.block
+{   
+    display: block;
+    position: static;
+    left: 300px;
+}
+.coche
+{
+    left:120px
+}
+.contour
+{
+    border: 2px solid black;
+    padding: 1.3em 1em 0.5em 1em;
+    background-color: #CCCCCC;
+    margin-bottom: 2%;
+    margin-right: 20%
+}
+h1
+{
+    color: darkblue;
+    font-weight: bolder;
+    font-family: Arial ;
+    font-size: 28px
+}
+h2
+{
+    font-size:18px;
+    color: white 
+}
+h3
+{
+    color: darkblue;
+    font-weight: bolder;
+    font-family: Arial ;
+    font-size: 18px
+}
+.un
+{
+    position: absolute;
+    top: 7%;
+    left: 2%;
+    background-color: #333333;
+    border: 3px solid black;
+}
+.deux
+{
+    position: absolute;
+    top: 31%;
+    left: 2%;
+    background-color: #333333;
+    border: 3px solid black;
+}
+.trois
+{
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    background-color: #333333;
+    border: 3px solid black;
+}
+.quatre
+{
+    position: absolute;
+    top: 90%;
+    left: 2%;
+    background-color: #333333;
+    border: 3px solid black;
+}
+.cinq
+{
+    position: absolute;
+    top: 112%;
+    left: 2%;
+    background-color: #333333;
+    border: 3px solid black;
+}
+
+
